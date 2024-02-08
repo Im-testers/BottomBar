@@ -4,7 +4,8 @@ apply plugin: 'com.github.kt3k.coveralls'
 ext {
     bintrayRepo = 'maven'
     bintrayName = 'bottom-bar'
-
+///subject
+echo:/
     publishedGroupId = 'com.roughike'
     libraryName = 'bottom-bar'
     artifact = 'bottom-bar'
